@@ -1,0 +1,27 @@
+conda update -n base conda : base 환경 conda update
+
+conda upgrade --all : 현재 환경 설치된 패키지 upgrade
+
+conda create -n mldl python=3.7.7 anaconda
+: create       - 가상환경( virtual environment ) 생성
+: -n mldl      - 가상환경 이름
+: python=3.7.7 - 가상환경이 사용할 파이썬 버전
+: anaconda     - 현재 환경의 모든 패키지를 포함한다.
+
+conda env list : 가상 환경 목록
+
+conda activate <가상환경이름> : 가상환경 활성화
+
+conda deactivate : 현재 가상환경 비활성화하고 이전으로 이동
+
+conda remove --name <가상환경이름> --all : 가상환경삭제
+
+conda install tensorflow=2.0.0 : tensorflow 2.0.0 package 설치
+
+https://scikit-learn.org/stable/#
+
+https://www.tensorflow.org/?hl=ko
+
+https://colab.research.google.com/notebooks/welcome.ipynb?hl=ko
+
+https://ko.wikipedia.org/wiki/
