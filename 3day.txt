@@ -1,9 +1,10 @@
 # 0. Open
 # 1. Review
 # 2. Topic
-#    2.1 선형 회귀( Linear Regression ) 모델 구현
-#    2.2 다중 선형 회귀( Multiple Linear Regression ) 모델
-#    2.3 로지스틱 회귀( Logistic Regression ) 모델
+#    2.1 Keras 이해
+#    2.2 선형 회귀( Linear Regression ) 모델 구현
+#    2.3 다중 선형 회귀( Multiple Linear Regression ) 모델
+#    2.4 로지스틱 회귀( Logistic Regression ) 모델
 # 3. Q & A
 # 4. Next
 # 5. Close
