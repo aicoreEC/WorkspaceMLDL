@@ -1,0 +1,10 @@
+# 0. Open
+# 1. Review
+# 2. Topic
+#    2.1 로지스틱 회귀( Logistic Regression ) 모델 - 이진 분류
+#    2.1 소프트맥스 회귀( Softmax Regression ) 모델 - 다중 분류
+# 3. Q & A
+# 4. Next
+# 5. Close
+
+		
