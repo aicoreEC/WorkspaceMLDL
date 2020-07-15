@@ -3,8 +3,11 @@
 # 2. Topic
 #    2.1 과적합(Overfitting)을 막는 방법
 #    2.2 기울기 소실(Gradient Vanishing)과 폭주(Exploding)
-#    2.3 다층 퍼셉트론(MultiLayer Perceptron, MLP)으로 텍스트 분류 실습
+#    2.3 다층 퍼셉트론(MultiLayer Perceptron, MLP)으로 텍스트분류
+#
+#트 분류 실습
 # 3. Q & A
 # 4. Next
 # 5. Close
 
+		https://colab.research.google.com/
