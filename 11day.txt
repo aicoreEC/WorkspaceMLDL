@@ -1,0 +1,19 @@
+# 0. Open
+# 1. Review
+# 2. Topic
+#    2.1 자연어처리(Natural Language Processing, NLP ) 개요
+#    2.2 단어 표현 방법
+#    2.3 텍스트 전처리
+#    2.4 언어 모델
+# 3. Q & A
+# 4. Next
+# 5. Close
+
+
+
+
+https://www.nltk.org/#
+
+https://konlpy-ko.readthedocs.io/ko/v0.4.3/
+
+
