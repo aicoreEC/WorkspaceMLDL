@@ -4,7 +4,8 @@
 #    2.1 Bag of Words( BoW )
 #    2.2 Document-Term Matrix( DTM )
 #    2.3 순환 신경망(Recurrent Neural Network, RNN)
-#    2.4 RNN 언어 모델(Recurrent Neural Network Language Model, RNNLM)
+#    2.4 RNN 언어 모델
+#	 (Recurrent Neural Network Language Model, RNNLM)
 # 3. Q & A
 # 4. Next
 # 5. Close
