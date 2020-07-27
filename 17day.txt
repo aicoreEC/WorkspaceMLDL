@@ -2,6 +2,7 @@
 # 1. Review
 # 2. Topic
 #    2.1 최종 조별 프로젝트 진행
+#    2.2 조별 EDA 검증
 # 3. Q & A
 # 4. Next
 # 5. Close
